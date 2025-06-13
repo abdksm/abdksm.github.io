@@ -1,7 +1,7 @@
 ---
 permalink: /publications
 layout: default
-  title: "Publications"
+title: "Publications"
 ---
 
 # Soon ..
