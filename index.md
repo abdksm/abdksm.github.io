@@ -7,4 +7,5 @@ I am currently a Master's student in Artificial Intelligence at [Dauphine PSL](h
 
 I am interested in:
 - Machine learning for image analysis
+- Machine learning for 3D scenes understanding
 - Reinforcement learning and intelligent decision-making systems   
