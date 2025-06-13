@@ -6,3 +6,8 @@ show_downloads: false
 
 include:
   - _pages
+  
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
